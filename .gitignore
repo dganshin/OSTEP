@@ -1,0 +1,13 @@
+# 编译产物
+*.o
+*.plist
+*.yml
+
+# GCC 可执行文件
+*.out
+*.exe
+a.out
+
+# 目录排除
+build/
+bin/
