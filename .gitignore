@@ -11,3 +11,4 @@ a.out
 # 目录排除
 build/
 bin/
+ostep-code/
